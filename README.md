@@ -5,12 +5,10 @@
 
 - 🌱 I’m currently learning **AWS stuff**
 
-- 📝 I regularly write articles on [https://momane.com](https://momane.com)
-
 - 💬 Ask me about **React, Vue and Mendix**
 
 - 📫 How to reach me **hank@momane.com**
 
-- 📄 Know about my experiences [https://momane.com/resume](https://momane.com/resume)
+- 📄 Know about [my experiences](https://momane.com/authors/hank/) 
 
 
