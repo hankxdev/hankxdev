@@ -27,41 +27,22 @@ I'm a passionate full-stack developer with a focus on **browser extensions**, **
 | Project | Description | Stars | Tech |
 |---------|-------------|-------|------|
 | [one-click-extensions-manager](https://github.com/hankxdev/one-click-extensions-manager) | Chrome extension manager for easy organization and control | ⭐ 255 | JavaScript |
-| [taro-v2ex](https://github.com/hankxdev/taro-v2ex) | V2EX multi-platform mini-program | ⭐ 14 | Vue, Taro |
-| [SendGridTest](https://github.com/hankxdev/SendGridTest) | Chrome extension for SendGrid email | ⭐ 4 | JavaScript |
+
 
 ### 🤖 Active AI & Full-Stack Projects
 - **[IronTrack-AI](https://github.com/hankxdev/IronTrack-AI)** - AI-driven gym tracking application (TypeScript)
   - [Mobile App (Flutter)](https://github.com/hankxdev/IronTrack-AI-Flutter)
-  - [Go Backend](https://github.com/hankxdev/IronTrack-AI-Backend)
-  - [Admin Dashboard](https://github.com/hankxdev/irontrack-admin)
-  - [Cloudflare Worker](https://github.com/hankxdev/irontrack-worker)
 
 - **[timelogger](https://github.com/hankxdev/timelogger)** - Time tracking application (TypeScript)
   - [Backend](https://github.com/hankxdev/timelogger-backend)
 
 ### 🔌 Browser Extensions & Productivity Tools
 - [edge-webstore-upload](https://github.com/hankxdev/edge-webstore-upload) - CLI tool for Edge extensions
-- [beike-note](https://github.com/hankxdev/beike-note) - Chrome extension for property notes
-- [hide-gmail](https://github.com/hankxdev/hide-gmail) - Clean Gmail inbox extension
-- [opensea-helper](https://github.com/hankxdev/opensea-helper) - NFT marketplace helper
-- [gmail-crm](https://github.com/hankxdev/gmail-crm) - Gmail CRM extension
 - [keep-live](https://github.com/hankxdev/keep-live) - Mac mouse movement utility
 
 ### 🛠️ Developer Tools & CLI
 - **[mendix-widget-tool](https://github.com/hankxdev/mendix-widget-tool)** - Better CLI tool for Mendix pluggable widgets (⭐ 2)
-- [gitcli-py](https://github.com/hankxdev/gitcli-py) - Git quick command CLI
-- [go-hub](https://github.com/hankxdev/go-hub) - Git add-commit-push CLI tool
 
-### 🎨 Mendix Development
-- [mendix-widget-tool](https://github.com/hankxdev/mendix-widget-tool) - CLI tool for widget development
-- [mendix-pluggable-widgets](https://github.com/hankxdev/mendix-pluggable-widgets) - Collection of custom widgets
-- [mendix-bilibli-player](https://github.com/hankxdev/mendix-bilibli-player) - Bilibili video player widget
-
-### 📚 Learning & Reference Projects
-- [codesignal-solutions](https://github.com/hankxdev/codesignal-solutions) - Algorithm solutions
-- [leetcode_solutions](https://github.com/hankxdev/leetcode_solutions) - LeetCode problem solutions
-- [flutter_udemy](https://github.com/hankxdev/flutter_udemy) - Flutter learning projects
 
 ---
 
@@ -82,7 +63,7 @@ I'm a passionate full-stack developer with a focus on **browser extensions**, **
 
 **Cloud & DevOps:**
 - Cloudflare Workers
-- AWS basics
+- Certified AWS Solution Architect
 - Docker
 
 **Specialties:**
@@ -91,17 +72,6 @@ I'm a passionate full-stack developer with a focus on **browser extensions**, **
 - AI/ML Integration
 - Web Scraping
 
----
-
-## 📊 Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hankxdev&show_icons=true&theme=dark" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hankxdev&layout=compact&theme=dark" alt="Top Languages" />
-</p>
 
 ---
 
@@ -111,14 +81,6 @@ I'm a passionate full-stack developer with a focus on **browser extensions**, **
 - 🔨 Improving **mendix-widget-tool** - Streamlining Mendix plugin development
 - 📱 Developing cross-platform applications with Flutter
 - 🚀 Exploring AI/ML integration in web and mobile applications
-
----
-
-## 🤝 Let's Connect
-
-- 🐦 [Twitter](https://twitter.com) - Coming soon
-- 💼 [LinkedIn](https://linkedin.com) - Coming soon
-- 📧 Email - Feel free to reach out
 
 ---
 
