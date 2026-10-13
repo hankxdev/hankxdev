@@ -36,9 +36,8 @@ I'm a passionate full-stack developer with a focus on **browser extensions**, **
 - **[timelogger](https://github.com/hankxdev/timelogger)** - Time tracking application (TypeScript)
   - [Backend](https://github.com/hankxdev/timelogger-backend)
 
-### 🔌 Browser Extensions & Productivity Tools
+### 🔌 Productivity Tools
 - [edge-webstore-upload](https://github.com/hankxdev/edge-webstore-upload) - CLI tool for Edge extensions
-- [keep-live](https://github.com/hankxdev/keep-live) - Mac mouse movement utility
 
 ### 🛠️ Developer Tools & CLI
 - **[mendix-widget-tool](https://github.com/hankxdev/mendix-widget-tool)** - Better CLI tool for Mendix pluggable widgets (⭐ 2)
